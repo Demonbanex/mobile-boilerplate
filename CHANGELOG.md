@@ -1,5 +1,6 @@
 == HEAD
 
+* Add support for Open Web Apps (#197)
 * Remove conditional comment for Windows Phone 7
 * Update jQuery to v2.1.0
 * Update Normalize.css to v3.0.0
